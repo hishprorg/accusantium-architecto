@@ -1,3 +1,25 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# @hishprorg/accusantium-architecto
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+Returns the next buffer/object in a stream's readable queue
+
+```
+npm install @hishprorg/accusantium-architecto
+```
+
+[![build status](http://img.shields.io/travis/mafintosh/@hishprorg/accusantium-architecto.svg?style=flat)](http://travis-ci.org/mafintosh/@hishprorg/accusantium-architecto)
+
+## Usage
+
+``` js
+var shift = require('@hishprorg/accusantium-architecto')
+
+console.log(shift(someStream)) // first item in its buffer
+```
+
+## Credit
+
+Thanks [@dignifiedquire](https://github.com/dignifiedquire) for making this work on node 6
+
+## License
+
+MIT
